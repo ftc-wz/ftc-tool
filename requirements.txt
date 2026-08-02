@@ -1,0 +1,11 @@
+rich
+requests
+beautifulsoup4
+lxml
+dnspython
+python-whois
+phonenumbers
+geoip2
+tldextract
+colorama
+flask
